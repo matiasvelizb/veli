@@ -40,7 +40,7 @@ Veli is a minimalist starter template, it includes:
    ```
 4. Start the development server
    ```bash
-   npm run dev dev
+   npm run dev
    ```
 
 ## Prerequisites

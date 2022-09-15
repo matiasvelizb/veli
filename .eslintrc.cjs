@@ -21,5 +21,10 @@ module.exports = {
       'error',
       { devDependencies: true },
     ],
+    'global-require': 'off',
+    'linebreak-style': [
+      'error',
+      'windows',
+    ],
   },
 };
